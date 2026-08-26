@@ -1,6 +1,6 @@
 # Experiment 3: Password Capturing Using Wireshark
 
-## 📌 Overview
+## Overview
 Wireshark can capture not only passwords but any type of information transmitted over the network: usernames, email addresses, personal information, etc. As long as we can capture network traffic, Wireshark can sniff passing passwords. 
 
 This sniffing can include passwords for various protocols such as HTTP, FTP, Telnet, etc. The captured data can be used to troubleshoot network problems, but can also be used maliciously to gain unauthorized access to sensitive information. 
@@ -9,7 +9,7 @@ Here we will see how we can capture a password using the Wireshark network captu
 
 ---
 
-## 🚀 Procedure & Steps
+## Procedure & Steps
 
 ### Step 1: Start Capturing the Network
 First of all, open your Wireshark tool in your Windows or Linux virtual machine and start capturing the network. Suppose I am capturing my wireless fidelity (Wi-Fi).
